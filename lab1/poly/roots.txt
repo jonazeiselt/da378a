@@ -1,0 +1,15 @@
+Root-finding started...
+Number of roots=2
+x1=-1, x2=-1
+eval(-1)=0, eval(-1)=0
+Root-finding started...
+Number of roots=2
+x1=-0.5, x2=1
+eval(-0.5)=0, eval(1)=0
+Root-finding started...
+Number of roots=0
+Roots are imaginary!
+Root-finding started...
+Number of roots=2
+x1=-2.73205, x2=0.732051
+eval(-2.73205)=4.76837e-07, eval(0.732051)=-1.19209e-07
